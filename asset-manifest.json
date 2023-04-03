@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/~reimarii/static/css/main.2a42991e.css",
+    "main.js": "/~reimarii/static/js/main.c4ce4b4c.js",
+    "static/js/787.b1738627.chunk.js": "/~reimarii/static/js/787.b1738627.chunk.js",
+    "index.html": "/~reimarii/index.html",
+    "main.2a42991e.css.map": "/~reimarii/static/css/main.2a42991e.css.map",
+    "main.c4ce4b4c.js.map": "/~reimarii/static/js/main.c4ce4b4c.js.map",
+    "787.b1738627.chunk.js.map": "/~reimarii/static/js/787.b1738627.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a42991e.css",
+    "static/js/main.c4ce4b4c.js"
+  ]
+}
